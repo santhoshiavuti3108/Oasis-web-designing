@@ -40,25 +40,6 @@ It provides an intuitive user experience with smooth navigation across all key s
 ---
 
 ## 🔗 Project Links
-
-github repository
--* *About & Contact Sections:* Well-structured content and a direct contact form link.
-* *Clean & Modern UI:* Designed using flexible layouts and custom styling.
-* *Live Deployment:* Hosted online using *GitHub Pages*.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-* *HTML5:* Semantic markup structure.
-* *CSS3:* Custom styles, layout formatting, and color themes.
-* *VS Code:* Source code editor.
-* *Git & GitHub:* Version control and repository hosting.
-* *GitHub Pages:* Live deployment environment.
-
----
-
-## 🔗 Project Links
 * *About & Contact Sections:* Well-structured content and a direct contact form link.
 * *Clean & Modern UI:* Designed using flexible layouts and custom styling.
 * *Live Deployment:* Hosted online using *GitHub Pages*.
