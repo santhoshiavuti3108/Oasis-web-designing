@@ -22,10 +22,15 @@ It provides an intuitive user experience with smooth navigation across all key s
 ## ✨ Features
 
 1.Responsive Navigation Bar:* Smooth links to jump across sections.
+
 2.Hero Section:* Eye-catching design with a clear call-to-action button.
+
 3.About & Contact Sections:* Well-structured content and a direct contact form link.
+
 4.Clean & Modern UI:* Designed using flexible layouts and custom styling.
+
 5.Live Deployment:* Hosted online using *GitHub Pages*.
+
 
 ---
 
@@ -36,13 +41,6 @@ It provides an intuitive user experience with smooth navigation across all key s
 * *VS Code:* Source code editor.
 * *Git & GitHub:* Version control and repository hosting.
 * *GitHub Pages:* Live deployment environment.
-
----
-
-## 🔗 Project Links
-* *About & Contact Sections:* Well-structured content and a direct contact form link.
-* *Clean & Modern UI:* Designed using flexible layouts and custom styling.
-* *Live Deployment:* Hosted online using *GitHub Pages*.
 
 ---
 
