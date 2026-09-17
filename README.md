@@ -31,17 +31,6 @@ It provides an intuitive user experience with smooth navigation across all key s
 
 5.Live Deployment:* Hosted online using *GitHub Pages*.
 
-
----
-
-## 🛠️ Tech Stack & Tools
-
-* *HTML5:* Semantic markup structure.
-* *CSS3:* Custom styles, layout formatting, and color themes.
-* *VS Code:* Source code editor.
-* *Git & GitHub:* Version control and repository hosting.
-* *GitHub Pages:* Live deployment environment.
-
 ---
 
 ## 🛠️ Tech Stack & Tools
